@@ -9,11 +9,15 @@ body{
 header{
   padding:10px;
   background-color: #fff;
+  height:80px;
+  line-height: 80px;
+  vertical-align: middle;
 }
 .titolo{
 }
 h1{
   display:inline-block;
+  vertical-align: middle;
 }
 main{
   padding:15px;
@@ -81,7 +85,7 @@ h3{
   background-color: #45ABEA;
   border-radius: 15px;
   padding: 7px 11px;
-  colo  r: #fff;
+  color: #fff;
 }
 .q1{
   display: inline-block;
