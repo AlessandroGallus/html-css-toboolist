@@ -10,10 +10,10 @@ header{
   padding:10px;
   background-color: #fff;
 }
-
+.titolo{
+}
 h1{
   display:inline-block;
-  
 }
 main{
   padding:15px;
@@ -44,11 +44,14 @@ main{
 }
 .liste{
   margin:3px 25px 25px 25px;
-  padding:50px;
+  padding:35px 20px;
   background-color: #fff;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   color: #444851;
+}
+h3{
+  padding: 20px 0 0 15px;
 }
 .check{
   font-size: 12px;
@@ -61,7 +64,65 @@ main{
   width:15px;
   text-align: center;
 }
+.x{
+  font-size: 12px;
+  margin:2px;
+  color:red;
+  border: solid red 1px;
+  display: inline-block;
+  border-radius:50%;
+  height:15px;
+  width:15px;
+  text-align: center;
+}
 .editorial{
+  display: inline-block;
   font-size: 12px;
   background-color: #45ABEA;
+  border-radius: 15px;
+  padding: 7px 11px;
+  colo  r: #fff;
+}
+.q1{
+  display: inline-block;
+  font-size: 12px;
+  background-color: #9C72E4;
+  border-radius: 15px;
+  padding: 7px 11px;
+  color: #fff;
+}
+.recruiting{
+  display: inline-block;
+  font-size: 12px;
+  background-color: #64C0A9;
+  border-radius: 15px;
+  padding: 7px 11px;
+  color: #fff;
+}
+.mobile{
+  display: inline-block;
+  font-size: 12px;
+  background-color: #F29E33;
+  border-radius: 15px;
+  padding: 7px 11px;
+  color: #fff;
+}
+.website{
+  display: inline-block;
+  font-size: 12px;
+  background-color: #D863A1;
+  border-radius: 15px;
+  padding: 7px 11px;
+  color: #fff;
+}
+.sales{
+  display: inline-block;
+  font-size: 12px;
+  background-color: #B0C926;
+  border-radius: 15px;
+  padding: 7px 11px;
+  color: #fff;
+}
+.riga{
+  padding: 0 0 15px 15px;
 }
